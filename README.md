@@ -74,4 +74,6 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 Emplear normas APA para el informe e IEEE para el artículo
 
 
+RUBRICA
 
+![](https://github.com/doalulema/InformeLaboratorio/blob/main/Laboratorio.png)
